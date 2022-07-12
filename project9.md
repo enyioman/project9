@@ -6,6 +6,10 @@ The architecture of the implementation is below:
 
 ![Architecture](./media/archy.png)
 
+The running servers so far on AWS:
+
+![Servers](./media/servers.png)
+
 ## Step 1: Install Jenkins Server
 
 Spin up an AWS EC2 server based on Ubuntu Server 20.04 LTS.
