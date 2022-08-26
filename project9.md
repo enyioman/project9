@@ -2,9 +2,6 @@
 
 Task: Enhance the architecture prepared in Project 8 by adding a Jenkins server, configure a job to automatically deploy source codes changes from Git to NFS server.
 
-The architecture of the implementation is below:
-
-![Architecture](./media/archy.png)
 
 The running servers so far on AWS:
 
